@@ -39,4 +39,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Firebase deployment
 npm run build
-firebase deploy
+firebase deploy# jovany-website-nextjs-firebase
