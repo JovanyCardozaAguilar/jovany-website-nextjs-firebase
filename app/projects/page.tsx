@@ -17,6 +17,9 @@ const page = () => {
             <div className='mt-4 text-center'>
                 A clicker game made in Unity
             </div>
+            <div className='mt-2 text-center'>
+                Language(s) : C#
+            </div>
             <div className='mt-4 text-center'>
                 <a 
                     href="https://jovanycardozaaguilar.itch.io/maize-madness"
