@@ -15,7 +15,7 @@ const Navbar = () => {
                     <Link href = '/publications'>Publications</Link>
                 </li>
                 <li className='p-4 cursor-pointer'>
-                    <Link href = '/profile'>Profile</Link>
+                    <Link href = '/resume'>Resume</Link>
                 </li>
             </ul>
         </div>
